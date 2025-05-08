@@ -6,6 +6,6 @@ Demo for Github intro video!
 
 watching video on youtube
 
-## local development
+## local development.
 
-open index.html in your browser
+open index.html in our browse
